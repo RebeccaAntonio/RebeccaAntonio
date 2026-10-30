@@ -14,13 +14,6 @@ I'm a third year BS in Computer Applications student majoring in Internet of Thi
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Featured Projects
-
-### [Product CRUD App](link-to-repo)
-A Laravel app with full Create/Read/Update/Delete for products, using Blade, Eloquent and MySQL, plus login and registration with Laravel Breeze.
-
-### [ESP32 BLE Master–Slave](link-to-repo)
-A button on a BLE master ESP32 controls LEDs on multiple slave ESP32 boards.
 
 ## Connect with me
 - LinkedIn: https://www.linkedin.com/in/rebecca-antonio-722b43347/
